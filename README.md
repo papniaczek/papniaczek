@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @papniaczek
-- 👀 Future Game Developer
-- 🌱 I’m currently learning C#
 - 📫 How to reach me - discord - papniaczek#6224
 
 <!---
